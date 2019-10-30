@@ -14,11 +14,11 @@ avatar: https://avatars0.githubusercontent.com/u/13204508?s=460&v=4
 #
 # Flags below are optional
 #
-remote_theme: fongandrew/hydeout
+remote_theme: poole/hyde
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: mxblackcode@gmail.com
   facebook:
   flickr:
   github: blackcodemx/
@@ -34,13 +34,13 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: sickermx
+disqus: sickermx.disqus.com
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://blackcodemx.github.com
+url: http://blackcodemx.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
